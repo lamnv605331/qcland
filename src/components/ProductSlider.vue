@@ -3,8 +3,10 @@
     <div class="clearfix mrb25 Module Module-171">
       <div>
         <div class="ModuleContent">
-          <h3 class="title-page">Dự án tiêu biểu</h3>
-          <div class="text-uppercase">Các dự án đang giao dịch &amp; phát triển</div>
+          <div class="header-section col-md-4 col-sm-6 col-xs-12 col-md-offset-4 col-sm-offset-3">
+              <div class="sub-header">Quoc cuong land</div>
+              <h3 style="color: #005423;">Dự án đang được <span>quan tâm</span></h3>
+          </div>
         </div>
         <div class="prj-home">
               <div class="row no-gutters">
@@ -387,3 +389,24 @@ export default {
 	}
 }
 </script>
+
+<style type="text/css" scoped>
+  .header-section {
+    margin: 0 auto;
+    width: -moz-fit-content;
+    width: fit-content;
+    float: none;
+    margin-bottom: 30px;
+  }
+  .header-section .sub-header {
+    font-size: 14px;
+    color: #F4761D;
+    font-family: Arial;
+    margin: 0;
+    text-transform: uppercase;
+    line-height: 20px;
+    font-weight: 300;
+    border-bottom: 1px solid #F4761D;
+  }
+    
+</style>

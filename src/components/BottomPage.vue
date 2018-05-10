@@ -42,8 +42,8 @@
             <div class="ModuleContent">
                <div class="media">
                   <p class="media-left"><span style="font-size: 14px; color: #354772;"><strong>
-                     Hotline:</strong></span> <span style="font-size: 16px; color: #2db34b;"><strong><a href="tel:1900636666" style="font-size: 16px; color: #2db34b;">1900 63 6666</a></strong></span><br>
-                     <span style="font-size: 14px; color: #354772;"><strong>Email:&nbsp;</strong></span><strong><a href="mailto:chamsockhachhang@novaland.com.vn" style="font-size: 16px; color: #2db34b;">chamsockhachhang@novaland.com.vn</a>
+                     Hotline:</strong></span> <span style="font-size: 16px; color: #005F27;"><strong><a href="tel:1900636666" style="font-size: 16px; color: #005F27;"> (08) 38 88 89 89</a></strong></span><br>
+                     <span style="font-size: 14px; color: #354772;"><strong>Email:&nbsp;</strong></span><strong><a href="mailto:sales@quoccuongland.vn" style="font-size: 16px; color: #005F27;">sales@quoccuongland.vn</a>
                      </strong>
                   </p>
                </div>

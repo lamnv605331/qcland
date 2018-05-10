@@ -7,7 +7,7 @@
          <div class="row">
             <section class="nav-brain pull-xl-left">
                <div class="brain Module Module-135">
-                  <div class="ModuleContent"><a href="/"><img alt="" src="/Data/Sites/1/media/Default/brain.jpg"></a></div>
+                  <div class="ModuleContent"><a href="/"><img alt="" src="http://quoccuongland.vn/frontend/images/logo-v2.jpg" style="padding: 5px 0px;"></a></div>
                </div>
                <a class="all-menu-button hidden-xl-up" href="javascript:void(0)">
                <i class="fa fa-bars" aria-hidden="true"></i>
@@ -19,7 +19,7 @@
                </a>
                <section class="header-content">
                   <div class="hotline clearfix text-xs-right Module Module-1229">
-                     <div class="ModuleContent"><a href="tel:1900 63 6666">Hotline:<strong>1900 63 6666</strong></a></div>
+                     <div class="ModuleContent"><a href="tel:1900 63 6666">Hotline:<strong style="color: #005F27;"> (08) 38 88 89 89</strong></a></div>
                   </div>
                   <div class="main-nav pull-xl-left Module Module-42">
                      <div class="ModuleContent">
